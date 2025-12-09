@@ -2,15 +2,15 @@
 
 This is a classic Tetris game built with HTML, CSS, and JavaScript.
 
-## What?
+## Details
 
 This project is a simple Tetris game with the following features:
 
-*   **Classic Tetris gameplay:** Move and rotate the tetrominoes to complete lines.
-*   **Score tracking:** Your score increases as you clear lines.
-*   **Leaderboard:** The game features a Hall of Fame that displays the top 10 scores.
-*   **Game over detection:** The game ends when the tetrominoes stack up to the top of the screen.
-*   **Keyboard controls:** Use the arrow keys to move the tetrominoes and the spacebar to rotate them.
+-   **Classic Tetris gameplay:** Move and rotate the tetrominoes to complete lines.
+-   **Score tracking:** Your score increases as you clear lines.
+-   **Leaderboard:** The game features a Hall of Fame that displays the top 10 scores.
+-   **Game over detection:** The game ends when the tetrominoes stack up to the top of the screen.
+-   **Keyboard controls:** Use the arrow keys to move the tetrominoes and the spacebar to rotate them.
 
 ## How to Play
 
@@ -27,8 +27,8 @@ This project is a simple Tetris game with the following features:
     _Note: The leaderboard functionality requires a PHP server to be running in the `src` directory._
 
 4.  **Controls:**
-    *   **Arrow keys:** Move the tetrominoes left, right, and down.
-    *   **Up arrow key:** Rotate the tetromino.
+    -   **Arrow keys:** Move the tetrominoes left, right, and down.
+    -   **Up arrow key:** Rotate the tetromino.
 
 ## Screenshot
 
